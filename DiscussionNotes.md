@@ -77,6 +77,8 @@ Key operational problems:
 - Regular income generation
 - Automate payment receipts
 - Collecting donor information
+- We are reaching out in mass, not the exact beneficiary
+- How do we arrive at budget?
 
 Web Site - Domain
 - Payment integration
@@ -86,6 +88,9 @@ Web Site - Domain
 Next steps:
     - Include teachers in assessing the gaps
     - Bucketize the spending
-    - Notebooks
+    - Notebooks/stationery
     - School Fees
+    - College Fees
 - Regular contribution from trust members
+- Website creation
+- Prioritization
